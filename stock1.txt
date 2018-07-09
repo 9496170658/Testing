@@ -13,6 +13,11 @@ print stock2
 print stock3
 print stock4
 <<<<<<< HEAD
+print stock1
+print stock2
+print stock3
+print stock4
+<<<<<<< HEAD
 =======
 print "this is pushed to git"
 >>>>>>> d1c6f563a9cf531e510aeefa71473d1d1ad0a4ca
