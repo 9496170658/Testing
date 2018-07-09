@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+stock1=input('enter the name of 1st stocks')
+stock2=input('enter the name of 2nd stocks')
+stock3=input('enter the name of 3rd stocks')
+stock4=input('enter the name of 4th stocks')
+=======
 stock1=input('enter the name of 1st stock')
 stock2=input('enter the name of 2nd stock')
 stock3=input('enter the name of 3rd stock')
@@ -6,3 +12,4 @@ print stock1
 print stock2
 print stock3
 print stock4
+print "this is pushed to git"

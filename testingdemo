@@ -11,3 +11,4 @@ for i in range (0,4):
     print item[i]
     print price[i]
     print qty[i]
+    print tax[i]
