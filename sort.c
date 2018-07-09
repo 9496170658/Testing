@@ -19,3 +19,4 @@ void main()
 		printf("%d\t",a[i]);
 
 }
+#sorting
