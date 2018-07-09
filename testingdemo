@@ -1,10 +1,12 @@
 item = [0,0,0,0]
 price = [0,0,0,0]
 qty=[0,0,0,0]
+tax=[0,0,0,0]
 for i in range (0,4):
     item[i] = raw_input ("Enter the item name: ")
     price[i] = input ("Enter the price of the item: ")
-    qty[i]=input("enter the quantity of item")
+    qty[i]=input("enter the quantity of item:")
+    tax[i]=input("enter the tax of item:")
 for i in range (0,4):
     print item[i]
     print price[i]
