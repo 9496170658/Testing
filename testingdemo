@@ -1,0 +1,8 @@
+item = [0,0,0,0]
+price = [0,0,0,0]
+for i in range (0,4):
+    item[i] = raw_input ("Enter the item name: ")
+    price[i] = input ("Enter the price of the item: ")
+for i in range (0,4):
+    print item[i]
+    print price[i]
