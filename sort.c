@@ -1,4 +1,4 @@
-#include <stdio.h>
+nbvhgxshagx#include <stdio.h>
 void main()
 {
 	int a[5]={5,3,4,1,2},i,j,temp;
